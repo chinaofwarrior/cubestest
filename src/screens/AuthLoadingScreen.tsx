@@ -2,12 +2,9 @@ import React from 'react';
 import {View, StatusBar} from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
-interface AuthLoadingProps{
-    navigation?: any
-} 
 
 class AuthLoadingScreen extends React.Component  {
-    constructor(props : AuthLoadingProps) {
+    constructor(props: {} | Readonly<{}>) {
         super(props)
         this._bootstrapAsync()
         StatusBar.setHidden(true)
