@@ -24,15 +24,12 @@ export const font = {
     extraSuperLarge: 30
 }
 
-enum fontSize {ultralight = "200", light = "400", 
-                medium = "600", bold = "800"}
-
-// export const fontSize = {
-//     ultralight: "200",
-//     light: "400",
-//     medium: "600",
-//     bold: "800"
-// }
+export const fontSize: any = {
+    ultralight: '200',
+    light: '400',
+    medium: '600',
+    bold: '800',
+};
 
 export const fontStyle = {
     smallBoldGrayText: {
@@ -172,5 +169,8 @@ export const appStyles = StyleSheet.create({
         borderRadius: 5,
         backgroundColor: WHITE,
         ...shadow(5)
+    },
+    settingInnerRightView: {
+        // no style
     }
 })

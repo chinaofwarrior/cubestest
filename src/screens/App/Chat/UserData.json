@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Chelsea",
+    "message": "So you work at CareMatch ?",
+    "profile": "https://i.dailymail.co.uk/i/pix/2013/05/16/article-2325413-0E38CCA400000578-245_634x488.jpg",
+    "online": false
+  },
+  {
+    "id": "2",
+    "name": "Amanda",
+    "message": "Hey, How's your night going?",
+    "profile": "https://cdn-04.independent.ie/entertainment/movies/article37813451.ece/f340a/AUTOCROP/w620/ipanews_a66f878d-669a-4de4-b864-c96191f45bed_1",
+    "online": true
+  },
+  {
+    "id": "3",
+    "name": "Chloe",
+    "message": "What year did you gradute UCLA?",
+    "profile": "http://www.cheatsheet.com/wp-content/uploads/2015/04/Elizabeth-Olsen.jpg",
+    "online": true
+  },
+  {
+    "id": "4",
+    "name": "Leslie",
+    "message": "It's going well! How about you?",
+    "profile": "https://cbsnews1.cbsistatic.com/hub/i/2017/05/18/65e40a8f-ab26-4f2a-998c-c448918e5d45/cannes-film-festival-gettyimages-684136134.jpg",
+    "online": false
+  },
+  {
+    "id": "5",
+    "name": "Chelsea",
+    "message": "So you work at CareMatch ?",
+    "profile": "https://secure.i.telegraph.co.uk/multimedia/archive/03390/winslet_3390757b.jpg",
+    "online": false
+  },
+  {
+    "id": "6",
+    "name": "Chelsea",
+    "message": "So you work at CareMatch ?",
+    "profile": "https://www.irishtimes.com/polopoly_fs/1.1914406.1409583760!/image/image.jpg_gen/derivatives/box_620_330/image.jpg",
+    "online": false
+  }
+]

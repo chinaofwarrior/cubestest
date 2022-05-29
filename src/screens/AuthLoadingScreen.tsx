@@ -3,7 +3,7 @@ import {View, StatusBar} from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 
-class AuthLoadingScreen extends React.Component  {
+class AuthLoadingScreen extends React.Component<any, any>  {
     constructor(props: {} | Readonly<{}>) {
         super(props)
         this._bootstrapAsync()
